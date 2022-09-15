@@ -189,7 +189,7 @@ export default function Index() {
 
             <div className="w-full md:w-5/12 px-4 mr-auto ml-auto mt-32">
               <div className="relative flex flex-col min-w-0 w-full mb-6 mt-48 md:mt-0">
-                <Link to="/palash">
+                <Link to="/yogesh">
                 <img
                   alt="..."
                   src={require("assets/img/component-btn.png").default}
@@ -215,7 +215,7 @@ export default function Index() {
                   src={require("assets/img/component-menu.png").default}
                   className="w-full align-middle rounded absolute shadow-lg max-w-100-px -top-250-px left-130-px"
                 /></Link>
-                <Link to="/yogesh">
+                <Link to="/palash">
                 <img
                   alt="..."
                   src={require("assets/img/component-btn-pink.png").default}
